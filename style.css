@@ -9,7 +9,9 @@ body {
 
 #binaryClock {
 	margin: 5px;
+	padding: 10px;
 	border: green solid 4px;
+	border-radius: 30px;
 	background-color: black;
 	width: 450px;
 	font-family: 'Courier New', Courier, monospace;
