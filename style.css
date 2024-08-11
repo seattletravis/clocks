@@ -1,4 +1,14 @@
-#clock {
+#decimalClock {
 	font-size: 24px;
 	width: 200px;
+}
+
+#binaryClock {
+	width: 450px;
+	font-size: 34px;
+
+	background-color: black;
+	border: green solid 4px;
+	text-align: center;
+	color: green;
 }
